@@ -1,5 +1,7 @@
-Hi 👽 </br>
-Front End developer student
+👽 Hi, I'm Louise </br>
+- Studying Front End development @ Medieinstitutet </br>
+- All about dogs, art, music & tech
+
 
 
 
