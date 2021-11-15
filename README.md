@@ -1,6 +1,6 @@
-👽 Hi! </br>
-👽 Front End student from Sweden </br>
-👽 Big fan of dogs, dance, art, music and tech 
+Hi 👽
+Front End developer student
+
 
 
 <!---
