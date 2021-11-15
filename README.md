@@ -1,5 +1,5 @@
-👽 Hi!
-👽 Front End student from Sweden
+👽 Hi! </br>
+👽 Front End student from Sweden </br>
 👽 Big fan of dogs, dance, art, music and tech 
 
 
