@@ -12,7 +12,7 @@ All about dogs, art, music & tech
 
 ###
 
-#### Skills, frameworks, tools etc.
+#### Skills, languages, tools etc.
 
 ###
 
