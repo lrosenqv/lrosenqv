@@ -30,7 +30,7 @@ All about dogs, art, music & tech
 </div>
 
 ###
-
+<a href="https://github.com/lrosenqv/designs">Designs</a>
 #### Currently taking a closer look at:
 
 ###
