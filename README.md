@@ -4,7 +4,7 @@ Studying Front End development @ Medieinstitutet </br>
 All about dogs, art, music & tech.
 
 ###
-#### <a href="https://github.com/lrosenqv/designs">Designs</a>
+#### <a href="DESIGNS.md">Designs</a>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true&username=lrosenqv" height="160" width="440" alt="stats graph"  />
