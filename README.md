@@ -13,8 +13,6 @@ All about dogs, art, music & tech.
 
 #### Skills, languages, tools etc.
 
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="33" width="45" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="33" width="45" alt="typescript logo"  />
