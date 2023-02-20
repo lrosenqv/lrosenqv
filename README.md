@@ -37,6 +37,7 @@ All about dogs, art, music & tech.
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" width="45" alt="threejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" width="45"  />
 </div>
 
 ###
