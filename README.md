@@ -1,7 +1,6 @@
 ## 👽 Hi, I'm Louise
 
-Studying Front End development @ Medieinstitutet </br>
-All about dogs, art, music & tech.
+Front end developer
 
 ###
 ### <a href="DESIGNS.md">Designs</a>
