@@ -1,58 +1,50 @@
 ## 👽 Hi, I'm Louise
 
-Front end developer
 
 ###
-### <a href="DESIGNS.md">Designs</a>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true&username=lrosenqv" height="160" width="420" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=true&username=lrosenqv" height="160" width="420" alt="languages graph"  />
-</div>
+<!--<a href="DESIGNS.md">Designs</a>*/-->
 
 #### Skills, languages, tools etc.
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="33" width="45" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="33" width="45" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="33" width="45" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="33" width="45" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="33" width="45" alt="sass logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" width="45"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="33" width="45" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="33" width="45" alt="vuejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" height="33" width="45" alt="angularjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" height="33" width="45" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" height="33" width="45" alt="mongodb logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" height="33" width="45" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height="33" width="45" alt="photoshop logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" height="33" width="45" alt="illustrator logo"  />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Next" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Vue" src="https://img.shields.io/badge/-Vue.js-42b883?style=flat-square&logo=vue.js&logoColor=white" />
 </div>
-
-###
-
-#### Currently taking a closer look at:
-
-###
-
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="45"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" width="45" alt="threejs logo"  />
-  <img src="https://static-00.iconduck.com/assets.00/strapi-icon-512x505-3hl7a1v3.png" height="40" width="45"  />
+  <img alt="Strapi" src="https://img.shields.io/badge/-Strapi-4945ff?style=flat-square&logo=strapi&logoColor=white" />
+  <img alt="Sanity" src="https://img.shields.io/badge/-Sanity-ef4434?style=flat-square&logo=sanity&logoColor=white" />
+  <img alt="Umbraco" src="https://img.shields.io/badge/-Umbraco-283a97?style=flat-square&logo=umbraco&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ff9103?style=flat-square&logo=firebase&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="MySql" src="https://img.shields.io/badge/-MySql-01618a?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+</div>  
+<div align="left">
+  <img alt="FramerMotion" src="https://img.shields.io/badge/-Framer-black?style=flat-square&logo=framer&logoColor=white" />
+  <img alt="Tailwind" src="https://img.shields.io/badge/-TailwindCSS-38bdf9?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img alt="Three.js" src="https://img.shields.io/badge/-Three.js-black?style=flat-square&logo=three.js&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
 </div>
 
-###
 
 #### Feel free to connect w/ me!
 
 <div align="left">
-  <a href="mailto:louise.rosenqvist@medieinstitutet.se" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="microsoft-outlook logo"  />
+  <a href="mailto:louise.rosenqvist@gracestudio.se" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="microsoft-outlook logo"  />
   </a>
   
   <a href="https://www.linkedin.com/in/louise-rosenqvist-722922124">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" 
-  height="27" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="linkedin logo"  />
   </a>
 </div>
 
